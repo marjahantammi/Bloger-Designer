@@ -1,0 +1,185 @@
+
+
+
+body {
+    margin: 0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
+    background-color:rgb(202, 196, 196);
+    font-family:  sans-serif;
+    
+   
+  }
+
+.mainbody{
+  width: 900px;
+  background-color: white;
+  margin: 0 auto;
+  height: auto;
+  padding:  10px 48px;
+  
+}
+
+
+
+
+.container {
+    
+    box-shadow: white;
+    width: 900px;
+    height: auto;
+    font-size: 15px;
+    word-spacing: -2px;
+  }
+
+  header{
+    text-transform: uppercase;
+    text-align: center;
+    width: 1170px;
+    margin: 0 auto;
+    padding: 48px;
+  }
+
+ header h1 {
+    color: black;
+    letter-spacing: 3px;
+    font-size: 48px;
+
+}
+
+header p{
+
+    letter-spacing: 5px;
+    color: dodgerblue;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+.font-aswsome{
+    color: black;
+    letter-spacing: 10px;
+    
+
+}
+
+h4{
+
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 19;
+  color: rgb(215, 215, 215, 215);
+
+}
+
+.fast-para-color{
+  color: #08c8f8;
+   
+}
+
+.second-para-color{
+  color: #17191b;
+}
+
+.therid-para-color{
+  color: #f30b60;
+}
+
+.fourth-para-color{
+  color: #87f30c;
+}
+
+/* p{
+  font-family: Arial;
+  line-height: 32px;
+  font-size: 22px;
+  color:rgb(144, 144, 144) ;
+}
+
+h3{
+  color:rgb(141, 141, 141) ; 
+  text-align: center;
+   letter-spacing: 5px ;
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+.section-1 .fast-paragrap h4{
+  font-size: 20px;
+}
+
+.section-1 p{
+
+  font-size: 17px;
+  color: #BABABA;
+}
+
+strong{
+  color: #66696C;
+}
+
+.section-2{
+  text-align: center;
+}
+
+.section-2-head h3{
+  letter-spacing: 3px;
+  color: #888888;
+  text-align: center;
+  padding: 20px;
+}
+
+.common{
+  word-spacing: 10px;
+  padding-right: 10px;
+}
+
+.commom{
+  padding-left: 10px;
+  color: #777777;
+  font-size: 9px;
+}
+
+.primary_contant h3{
+  font-size: 15px;
+  color: #4b4747;
+  padding-top: 5px;
+}
+
+.primary_contant small .commom{
+
+  color: #69d3d3d3;
+
+}
+
+
+
+.hr{
+  
+  width: 1002px;
+  text-align: center;
+  
+}
+
+footer .footer_info{
+  
+  display: flex;
+  margin-left: 100px;
+  
+}
+
+.footer_info{
+  
+    color: #4b4747;
+  
+}
+    
+.last_info{
+  padding-left: 76px;
+}
+
+.second_info{
+  padding-left: 727px;
+}
+
+
+
